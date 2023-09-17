@@ -1,5 +1,7 @@
 package ru.plum.polybooru.models;
 
+import java.util.ArrayList;
+
 public class Tag {
     private Long id;
     private String value;

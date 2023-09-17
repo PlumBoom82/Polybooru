@@ -4,13 +4,13 @@ import java.util.ArrayList;
 import java.util.Date;
 
 public class Post {
-    private Long id;
+    private long id;
     private Image image;
     private String author;
     private ArrayList<Tag> tags;
     private Date date;
 
-    public Post(Long id, Image image, String author, ArrayList<Tag> tags, Date date) {
+    public Post(long id, Image image, String author, ArrayList<Tag> tags, Date date) {
         this.id = id;
         this.image = image;
         this.author = author;
