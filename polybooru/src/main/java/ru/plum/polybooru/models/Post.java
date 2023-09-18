@@ -11,6 +11,7 @@ import java.util.Date;
 @Setter
 @AllArgsConstructor
 public class Post {
+
     private long id;
     private Image image;
     private String author;
