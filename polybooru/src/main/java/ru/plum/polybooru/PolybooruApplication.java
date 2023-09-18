@@ -11,4 +11,5 @@ public class PolybooruApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(PolybooruApplication.class, args);
 	}
+
 }
