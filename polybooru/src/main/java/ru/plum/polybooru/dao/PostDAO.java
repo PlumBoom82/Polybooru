@@ -6,6 +6,7 @@ import ru.plum.polybooru.models.Image;
 import ru.plum.polybooru.models.Post;
 import ru.plum.polybooru.models.Tag;
 
+import java.sql.Connection;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
